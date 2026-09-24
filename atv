@@ -1,0 +1,5 @@
+<li class="list__item">
+        <a href="{{'/'}}">
+          <img class="item__img" src="../static/img/Leav.jpeg" alt="folinha">
+          <span>nossa construção ecologica</span></a>
+      </li>
